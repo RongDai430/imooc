@@ -1,5 +1,5 @@
-# 慕课网
- 慕课网上的课程学习
+# imooc
+This is the collections of notebooks or C++ source code for my learning of courses on imooc website.
 
 **Updated -- 2019.8.3**
 
