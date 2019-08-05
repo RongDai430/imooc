@@ -1,6 +1,11 @@
+//
+//	Created by Rong Dai on 8/4/19
+//
 #include<iostream>
 #include<algorithm> 
 #include "SortTestHelper.h"
+//选择排序和插入排序 
+//插入排序对近乎有序的数组效率非常高 
 
 using namespace std;
 
